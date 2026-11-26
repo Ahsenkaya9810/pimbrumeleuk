@@ -1,0 +1,10 @@
+PİMBRU · MELEK AKKAYALI · ÇEKİM SÜRÜMÜ
+
+Profil fotoğrafı sanat ekibinden gelen orijinal oyuncu fotoğrafıdır; değiştirilmedi.
+Beş eski fotoğraf: farklı kıyafet ve yerlerde üretilmiş kurgu görsellerdir. 5. fotoğrafın saç modeli açıktır.
+Beş gönderinin yalnızca birinde kısa açıklama, ikisinde küçük arkadaş yorumu var; beğeni sayısı ve paylaşım alanı gösterilmez.
+Yeni fotoğraf paylaşımı: + veya Fotoğraf / video > Galeriden seç > Paylaş. Açıklama YAZMAK ZORUNLU DEĞİLDİR.
+Yeni fotoğraf o cihazın tarayıcısında saklanır, başka cihaza geçmez; sonraki yeni fotoğraf önceki çekim fotoğrafının yerini alır.
+Yeni eklenen fotoğrafın üç nokta menüsünden silme özelliği vardır.
+Tarihlerde saat gösterilmez. Bio yok. Orijinal Pimbru düzeni korunur.
+ZIP içindeki dosyaları GitHub deposunun kök dizinine yükleyin (alt klasör yok).
